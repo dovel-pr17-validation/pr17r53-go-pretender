@@ -1,0 +1,6 @@
+pretender
+pretender.exe
+Vagrantfile
+.vagrant
+.sshcfg
+dist/
